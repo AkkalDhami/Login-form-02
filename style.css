@@ -162,17 +162,17 @@
       margin: 0px;
       padding: 10px 5px;
       margin: 40px auto;
-      width: 100%;
+      width: 86%;
     }
   
     .login-form .form .email {
       height: 40px;
-      width: 100%;
+      width: 86%;
       margin: 10px 0;
     }
     .login-form .password {
       height: 40px;
-      width: 100%;
+      width: 86%;
       margin: 10px 0;
     }
     .login-form .hide-show i{
