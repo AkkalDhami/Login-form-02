@@ -160,7 +160,7 @@
   @media (max-width: 400px) {
     .login-form {
       margin: 0px;
-      padding: 10px 5px;
+      padding: 10px;
       margin: 40px auto;
       width: 86%;
     }
